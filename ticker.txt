@@ -1,0 +1,198 @@
+Ticker: AALR3Ação: AALR3 - ALLIAR MEDICINA DIAGNÓSTICA
+Cotação: 10,20
+Volume: 9.941.242,41
+LPA: 10,97
+VPA: 0,16
+Lucro: 
+
+18,55 M
+
+
+
+Ticker: ABCB4Ação: ABCB4 - BANCO ABC BRASIL
+Cotação: 14,17
+Volume: 12.624.701,79
+LPA: 18,53
+VPA: 2,24
+Lucro: 
+
+489,84 M
+
+
+
+Ticker: ABEV3Ação: ABEV3 - AMBEV
+Cotação: 13,95
+Volume: 383.779.324,85
+LPA: 4,58
+VPA: 0,68
+Lucro: 
+
+10.650,52 M
+
+
+
+Ticker: ADHM3Ação: ADHM3 - ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA
+Cotação: 2,49
+Volume: 196.341,38
+LPA: -1,21
+VPA: -0,38
+Lucro: 
+
+-6,22 M
+
+
+
+Ticker: AALR3Ação: AALR3 - ALLIAR MEDICINA DIAGNÓSTICA
+Cotação: 10,20
+Volume: 9.941.242,41
+LPA: 10,97
+VPA: 0,16
+Lucro: 
+
+18,55 M
+
+
+
+Ticker: ABCB4Ação: ABCB4 - BANCO ABC BRASIL
+Cotação: 14,17
+Volume: 12.624.701,79
+LPA: 18,53
+VPA: 2,24
+Lucro: 
+
+489,84 M
+
+
+
+Ticker: ABEV3Ação: ABEV3 - AMBEV
+Cotação: 13,95
+Volume: 383.779.324,85
+LPA: 4,58
+VPA: 0,68
+Lucro: 
+
+10.650,52 M
+
+
+
+Ticker: ADHM3Ação: ADHM3 - ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA
+Cotação: 2,49
+Volume: 196.341,38
+LPA: -1,21
+VPA: -0,38
+Lucro: 
+
+-6,22 M
+
+
+
+Ticker: AALR3Ação: AALR3 - ALLIAR MEDICINA DIAGNÓSTICA
+Cotação: 10,20
+Volume: 9.941.242,41
+LPA: 10,97
+VPA: 0,16
+Lucro: 
+
+18,55 M
+
+
+
+Ticker: ABCB4Ação: ABCB4 - BANCO ABC BRASIL
+Cotação: 14,17
+Volume: 12.624.701,79
+LPA: 18,53
+VPA: 2,24
+Lucro: 
+
+489,84 M
+
+
+
+Ticker: ABEV3Ação: ABEV3 - AMBEV
+Cotação: 13,95
+Volume: 383.779.324,85
+LPA: 4,58
+VPA: 0,68
+Lucro: 
+
+10.650,52 M
+
+
+
+Ticker: ADHM3Ação: ADHM3 - ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA
+Cotação: 2,49
+Volume: 196.341,38
+LPA: -1,21
+VPA: -0,38
+Lucro: 
+
+-6,22 M
+
+
+
+Ticker: AFLT3Ação: AFLT3 - AFLUENTE
+Cotação: 11,78
+Volume: 101.527,76
+LPA: 3,49
+VPA: 0,39
+Lucro: 
+
+24,73 M
+
+
+
+Ticker: AALR3Ação: AALR3 - ALLIAR MEDICINA DIAGNÓSTICA
+Cotação: 10,20
+Volume: 9.941.242,41
+LPA: 10,97
+VPA: 0,16
+Lucro: 
+
+18,55 M
+
+
+
+Ticker: ABCB4Ação: ABCB4 - BANCO ABC BRASIL
+Cotação: 14,17
+Volume: 12.624.701,79
+LPA: 18,53
+VPA: 2,24
+Lucro: 
+
+ 489,84 M
+
+
+
+Ticker: ABEV3Ação: ABEV3 - AMBEV
+Cotação: 13,95
+Volume: 383.779.324,85
+LPA: 4,58
+VPA: 0,68
+Lucro: 
+
+10.650,52 M
+
+
+
+Ticker: ADHM3Ação: ADHM3 - ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA
+Cotação: 2,49
+Volume: 196.341,38
+LPA: -1,21
+VPA: -0,38
+Lucro: 
+
+-6,22 M
+
+
+
+Ticker: AFLT3Ação: AFLT3 - AFLUENTE
+Cotação: 11,78
+Volume: 101.527,76
+LPA: 3,49
+VPA: 0,39
+Lucro: 
+
+24,73 M
+
+
+
