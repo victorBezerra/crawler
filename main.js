@@ -61,7 +61,7 @@ function buscador(ticker){
 }
 
 setInterval(()=>{
-    if(list.length===520){
+    if(list.length===0){
         console.log("ACABOU!!");
         process.exit()
     }else
