@@ -2,15 +2,11 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const cheerio = require('cheerio');
 const request = require('request');
-const csvFast = require('fast-csv');
 const { head } = require('request');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
 const stream = fs.createReadStream('statusinvest-busca-avancada.csv');
-const writeStream = fs.createWriteStream('ticker.txt',{flags:'a'});
 const list = [];
-const result = []
-const csvFile = fs.createWriteStream('ticker.csv',{flags:'a'});
 const csvWriter = createCsvWriter({
     path:'./ticker.csv',
     header:[
@@ -46,13 +42,6 @@ function buscador(ticker){
                     vpa:$('strong.value.d-block.lh-4.fs-4.fw-700').eq(8).text(),
                     lucro:($('td.level-0.value.text-right.DATA.lastTwelveMonths').eq(10).text()).trim()
             }
-            console.log(`Ticker: ${acao.ticker}`);
-            console.log(`Nome: ${acao.nome}`);
-            console.log(`Cotação: ${acao.cotacao}`);
-            console.log(`volume: ${acao.volume}`);
-            console.log(`LPA: ${acao.lpa}`);
-            console.log(`VPA: ${acao.vpa}`);
-            console.log(`Lucro: ${acao.lucro}`);
             csvWriter.writeRecords([
                 {
                 ticker:acao.ticker, 
@@ -65,14 +54,6 @@ function buscador(ticker){
                 }
             ])
                         .then(()=>console.log('Inserido'))
-            writeStream.write(`Ticker: ${acao.ticker}`)
-            writeStream.write(`Ação: ${$('h1.lh-4').eq(0).text()}\n`)
-            writeStream.write(`Cotação: ${$('strong.value').eq(0).text()}\n`)
-            writeStream.write(`Volume: ${$('strong.value').eq(7).text()}\n`)
-            writeStream.write(`LPA: ${$('strong.value.d-block.lh-4.fs-4.fw-700').eq(6).text()}\n`)
-            writeStream.write(`VPA: ${ $('strong.value.d-block.lh-4.fs-4.fw-700').eq(8).text()}\n`)
-            writeStream.write(`Lucro: ${$('td.level-0.value.text-right.DATA.lastTwelveMonths').eq(10).text()}\n`)
-            writeStream.write(`\n`)
         }else if(err){
             console.error(`Ticker ${ticker} Error: ${err}`)
         }
